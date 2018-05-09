@@ -1,0 +1,27 @@
+ID d'organisation
+h8fd7b
+Type de terminal
+Android
+ID de terminal
+device-iot-android
+Méthode d'authentification
+use-token-auth
+Jeton d'authentification
+WQ!mPWupzmAE?l+S_X
+
+
+
+
+: object
+acceleration_x: -0.78649527
+acceleration_y: 4.8937483
+acceleration_z: 8.010999
+roll: 0.09786332
+pitch: -0.54624885
+yaw: -0.023295641
+longitude: 0
+latitude: 0
+heading: 0
+speed: 0
+trip_id: "1524751724"
+timestamp: "2018-04-26T10:24:48.580-04:00"
